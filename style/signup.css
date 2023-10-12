@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(254, 255, 238);
+    font-family: 'Roboto Mono', monospace;
+}
+nav {
+    background: rgb(254, 255, 238);
+}
+.signup-container {
+    margin-top: 20px;
+    background-color: rgb(254, 255, 238);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
