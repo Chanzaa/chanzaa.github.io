@@ -5,6 +5,7 @@ body {
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
     background-attachment: fixed;
+
    
     
 }
@@ -26,6 +27,9 @@ body {
 nav {
     background: rgb(254, 255, 238);
 }
+nav .logonav {
+    font-family:  'Lobster', sans-serif;;
+}
 /* hero */
 .header {
     margin-top: 350px;
@@ -40,8 +44,9 @@ nav {
 
 .header .productname {
     font-weight: 600;
-    font-size: 50px;
+    font-size: 2rem;
     letter-spacing: -2px;
+    padding: 10px;
     
 }
 .header .slogan {

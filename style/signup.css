@@ -5,6 +5,9 @@ body {
 nav {
     background: rgb(254, 255, 238);
 }
+nav .logonav {
+    font-family:  'Lobster', sans-serif;;
+}
 .signup-container {
     margin-top: 20px;
     background-color: rgb(254, 255, 238);
